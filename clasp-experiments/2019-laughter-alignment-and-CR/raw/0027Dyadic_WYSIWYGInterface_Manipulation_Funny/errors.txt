@@ -1,0 +1,2 @@
+ERROR IN CLIENT: Vlad20 Arianna
+Error message FROM CLIENT: Vlad20: Arianna is using java version: 1.8.0_231

@@ -1,0 +1,17 @@
+Creating new ParticipantConnection
+ERROR IN CLIENT: Vlad20 Arianna
+Error message FROM CLIENT: Vlad20: Arianna is using java version: 1.8.0_231
+
+There is an ERROR in the Conversation Controller
+Check the ERRORLOG.TXT file in the directory containing
+the saved experimental data
+ERROR IN CLIENT: Vlad20 Arianna
+Error message FROM CLIENT: Vlad20: Arianna is using java version: 1.8.0_231
+
+Creating new ParticipantConnection
+---------------------------------------------------------
+Created new subdialogue called: 0 with the following participants:
+Vlad20 Arianna
+Vlad21 zarzoura
+Disconnect detected of Arianna
+Disconnect detected of zarzoura

@@ -1,0 +1,6 @@
+Creating new ParticipantConnection
+Creating new ParticipantConnection
+---------------------------------------------------------
+Created new subdialogue called: 0 with the following participants:
+Vlad30 Iines
+Vlad31 Malin

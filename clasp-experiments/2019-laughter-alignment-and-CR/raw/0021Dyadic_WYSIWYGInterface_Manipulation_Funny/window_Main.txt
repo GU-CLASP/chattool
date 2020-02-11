@@ -1,0 +1,8 @@
+Creating new ParticipantConnection
+Creating new ParticipantConnection
+---------------------------------------------------------
+Created new subdialogue called: 0 with the following participants:
+Vlad01 Vidya
+Vlad00 Axel
+Disconnect detected of Axel
+Disconnect detected of Vidya

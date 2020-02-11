@@ -1,0 +1,1 @@
+ExperimentID¦ServerTimestampOfSavingToFile¦SubdialogueID¦Turntype¦SernderID¦SenderUsername¦ApparentSender¦Text¦Recipient(s)¦NoOfDocumentDeletes¦NoOfKeypressDeletes¦ClientTimestampONSET¦ClientTimestampENTER¦ServerTimestampOfReceiptAndOrSending¦TextAsformulatedTIMING¦TextAsFormulatedLOGSPACE¦
